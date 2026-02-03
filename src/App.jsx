@@ -52,7 +52,7 @@ function App() {
             style={imageStyle}
           />
 
-          <div className="student-name">Narpareddy Hemasri</div>
+          <div className="student-name"> Hemasri</div>
           <div className="student-role">Computer Science Student</div>
           <div className="college-name">csa Institute of Technology</div>
 
